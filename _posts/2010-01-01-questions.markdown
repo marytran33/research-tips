@@ -4,9 +4,12 @@ title:  "Start with your Questions"
 date:   2010-01-01
 description: Before you search, start by brainstorming a list questions.
 category: questions
+tags:
+- getting started
+- research questions
 ---
 
-<p class="intro"><span class="dropcap">Q</span>uestions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
+<p class="intro">Questions drive research. The most rewarding  research projects start with questions you care about and want to explore.</p>
 
 <img class="responsive-img materialboxed" src="{{ '/assets/img/content/question-map-examples.jpg' | prepend: site.baseurl }}" alt="Example question maps" data-caption="Example question maps"> 
 
@@ -18,7 +21,7 @@ category: questions
 
 <ul class="collapsible" data-collapsible="expandable">
     <li>
-      <div class="collapsible-header"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question:</div>
+      <div class="collapsible-header active"><i class="material-icons">ondemand_video</i>Need help generating questions? Check out our quick video tutorial on developing a research question:</div>
       <div class="collapsible-body"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jj-F6YVtsxI?list=PLV8eqWoGXke5D5bmwscUhow1RJKWZmMRZ" frameborder="0" allowfullscreen></iframe></div>
     </li>
     <li>
